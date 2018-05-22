@@ -4,6 +4,7 @@
 
 ```bash
 yarn global add galperins4/ARK-Wallet-Generator
+export PATH="$(yarn global bin):$PATH"
 ```
 
 ## Usage

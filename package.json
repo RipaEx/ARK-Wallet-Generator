@@ -21,7 +21,7 @@
     "author": "Brian Faust <hello@brianfaust.me> (https://brianfaust.me)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/faustbrian/ARK-Wallet-Generator/issues"
+        "url": "https://github.com/galperins4/ARK-Wallet-Generator/issues"
     },
     "homepage": "https://github.com/faustbrian/ARK-Wallet-Generator",
     "dependencies": {

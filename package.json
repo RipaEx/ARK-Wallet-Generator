@@ -23,7 +23,7 @@
     "bugs": {
         "url": "https://github.com/galperins4/ARK-Wallet-Generator/issues"
     },
-    "homepage": "https://github.com/faustbrian/ARK-Wallet-Generator",
+    "homepage": "https://github.com/galperins4/ARK-Wallet-Generator",
     "dependencies": {
         "arkjs": "^0.2.1",
         "bip39": "^2.4.0",

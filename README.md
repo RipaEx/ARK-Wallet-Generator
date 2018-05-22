@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-yarn global add faustbrian/ARK-Wallet-Generator
+yarn global add galperins4/ARK-Wallet-Generator
 ```
 
 ## Usage

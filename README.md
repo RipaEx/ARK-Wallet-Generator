@@ -10,8 +10,8 @@ yarn global add faustbrian/ARK-Wallet-Generator
 
 ```bash
 awg -n {network} -a {number_of_addresses}
-awg -n mainnet -a 10
-awg -n devnet -a 10
+awg -n ark_mainnet -a 10
+awg -n ark_devnet -a 10
 ```
 
 ## Security

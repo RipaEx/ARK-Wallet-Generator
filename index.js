@@ -6,7 +6,7 @@ if (argv['n']) {
     ark.crypto.setNetworkVersion({
         ark_mainnet: 23,
         ark_devnet: 30,
-        ripa_mainnet: 37
+        ripa_mainnet: 55
     }[argv['n']]);
 }
 

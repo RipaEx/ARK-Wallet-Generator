@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-yarn global add galperins4/ARK-Wallet-Generator
+yarn global add RipaEx/RIPA-Wallet-Generator
 export PATH="$(yarn global bin):$PATH"
 ```
 

@@ -11,13 +11,14 @@ export PATH="$(yarn global bin):$PATH"
 
 ```bash
 awg -n {network} -a {number_of_addresses}
+awg -n ripa_mainnet - 5
 awg -n ark_mainnet -a 10
 awg -n ark_devnet -a 10
 ```
 
 ## Security
 
-If you discover a security vulnerability within this package, please send an e-mail to hello@brianfaust.me. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to goosenode@gmail.com. All security vulnerabilities will be promptly addressed.
 
 ## Credits
 

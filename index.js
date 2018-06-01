@@ -1,5 +1,5 @@
 var bip39 = require("bip39");
-var ark = require('arkjs');
+var ark = require('ripajs');
 var argv = require('minimist')(process.argv.slice(2));
 
 if (argv['n']) {

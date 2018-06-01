@@ -1,4 +1,4 @@
-# ARK Wallet Generator
+# RIPA Wallet Generator
 
 ## Installation
 
